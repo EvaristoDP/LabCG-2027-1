@@ -1,0 +1,22 @@
+# Blender 5.2.0 LTS MTL File: 'None'
+# www.blender.org
+
+newmtl 3888_Space_Beacon.001
+Ns 10.000005
+Ka 1.000000 1.000000 1.000000
+Ks 0.270000 0.270000 0.270000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Space_Beacon_v1_L1.123c51fd3366-18e5-4d50-9089-c12d8c04f9a1/Space_Beacon_v1_L1.123c51fd3366-18e5-4d50-9089-c12d8c04f9a1/13888_Space_Beacon_large_Solar_Array_diff.jpg
+
+newmtl Material__0.001
+Ns 4.999998
+Ka 1.000000 1.000000 1.000000
+Ks 0.540000 0.540000 0.540000
+Ke 0.000000 0.000000 0.000000
+Ni 1.500000
+d 1.000000
+illum 2
+map_Kd ../Space_Beacon_v1_L1.123c51fd3366-18e5-4d50-9089-c12d8c04f9a1/Space_Beacon_v1_L1.123c51fd3366-18e5-4d50-9089-c12d8c04f9a1/13888_Space_Beacon_large_Hull_diff1.jpg
